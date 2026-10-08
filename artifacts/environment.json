@@ -1,0 +1,15 @@
+{
+  "python": "3.14.5",
+  "platform": "macOS",
+  "packages": {
+    "ultralytics": "8.4.174",
+    "numpy": "2.5.3",
+    "torch": "2.14.1",
+    "torchvision": "0.29.1",
+    "PyYAML": "6.0.3",
+    "opencv-python": "5.0.0.93",
+    "matplotlib": "3.11.2",
+    "coppeliasim_zmqremoteapi_client": "2.0.4"
+  },
+  "note": "Metadata snapshot of the local environment at portfolio preparation. A dependency range may install a different version."
+}

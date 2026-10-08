@@ -1,0 +1,35 @@
+{
+  "splits": {
+    "train": {
+      "image_label_pairs": 115,
+      "distinct_image_contents": 92,
+      "repeated_image_files": 23,
+      "object_labels": {
+        "Tree": 43,
+        "Cube": 23
+      },
+      "background_images": 64,
+      "capture_runs": {
+        "run4": 23,
+        "run2": 44,
+        "run3": 23,
+        "run1": 25
+      }
+    },
+    "val": {
+      "image_label_pairs": 23,
+      "distinct_image_contents": 23,
+      "repeated_image_files": 0,
+      "object_labels": {
+        "Tree": 14,
+        "Cube": 14
+      },
+      "background_images": 9,
+      "capture_runs": {
+        "run5": 23
+      }
+    }
+  },
+  "exact_image_hashes_shared_across_splits": 0,
+  "method": "SHA-256 of image bytes. Near-duplicate images and scene independence are not established by this audit."
+}

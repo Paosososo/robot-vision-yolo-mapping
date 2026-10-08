@@ -1,0 +1,24 @@
+# Local environments and generated outputs
+.venv/
+venv/
+yolo/
+ls/
+ls312/
+__pycache__/
+*.py[cod]
+*.cache
+.DS_Store
+.env
+.env.*
+output/
+runs/
+captures/
+images_all/
+dataset/
+export/
+*.zip
+*.partial
+*.mov
+*.mp4
+*.m4v
+yolo11n.pt

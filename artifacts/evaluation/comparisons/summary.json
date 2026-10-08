@@ -1,0 +1,163 @@
+[
+  {
+    "image": "data/images/val/0c3d9d9d-run5_rgb_000140.png",
+    "comparison": "0001_0c3d9d9d-run5_rgb_000140.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 1
+  },
+  {
+    "image": "data/images/val/128a0e0f-run5_rgb_000360.png",
+    "comparison": "0002_128a0e0f-run5_rgb_000360.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/15f5de08-run5_rgb_000020.png",
+    "comparison": "0003_15f5de08-run5_rgb_000020.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/1e9a25a8-run5_rgb_000440.png",
+    "comparison": "0004_1e9a25a8-run5_rgb_000440.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/1ea0003f-run5_rgb_000220.png",
+    "comparison": "0005_1ea0003f-run5_rgb_000220.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/1ee57f98-run5_rgb_000420.png",
+    "comparison": "0006_1ee57f98-run5_rgb_000420.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/2811bb15-run5_rgb_000320.png",
+    "comparison": "0007_2811bb15-run5_rgb_000320.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/3c77d233-run5_rgb_000380.png",
+    "comparison": "0008_3c77d233-run5_rgb_000380.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/45800f4b-run5_rgb_000200.png",
+    "comparison": "0009_45800f4b-run5_rgb_000200.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/45f4f01e-run5_rgb_000260.png",
+    "comparison": "0010_45f4f01e-run5_rgb_000260.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/5aa6df7b-run5_rgb_000080.png",
+    "comparison": "0011_5aa6df7b-run5_rgb_000080.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/60e2ff51-run5_rgb_000000.png",
+    "comparison": "0012_60e2ff51-run5_rgb_000000.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/8249ea46-run5_rgb_000120.png",
+    "comparison": "0013_8249ea46-run5_rgb_000120.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/93f22a62-run5_rgb_000100.png",
+    "comparison": "0014_93f22a62-run5_rgb_000100.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/94e1f660-run5_rgb_000160.png",
+    "comparison": "0015_94e1f660-run5_rgb_000160.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/a3343c4b-run5_rgb_000280.png",
+    "comparison": "0016_a3343c4b-run5_rgb_000280.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/accb4a19-run5_rgb_000300.png",
+    "comparison": "0017_accb4a19-run5_rgb_000300.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/ad32220e-run5_rgb_000340.png",
+    "comparison": "0018_ad32220e-run5_rgb_000340.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/cbf6658c-run5_rgb_000040.png",
+    "comparison": "0019_cbf6658c-run5_rgb_000040.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/d080db86-run5_rgb_000180.png",
+    "comparison": "0020_d080db86-run5_rgb_000180.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/d8546bae-run5_rgb_000060.png",
+    "comparison": "0021_d8546bae-run5_rgb_000060.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/dbea9e10-run5_rgb_000240.png",
+    "comparison": "0022_dbea9e10-run5_rgb_000240.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "data/images/val/fe65194e-run5_rgb_000400.png",
+    "comparison": "0023_fe65194e-run5_rgb_000400.png",
+    "correct": 2,
+    "false_positives": 0,
+    "missed": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "selection": "Highest recorded validation mAP50-95 row per results.csv; not the last epoch.",
+  "rows": {
+    "objects_no_aug": {
+      "epoch": "54",
+      "time": "214.87",
+      "train/box_loss": "0.14299",
+      "train/cls_loss": "0.2537",
+      "train/dfl_loss": "0.83348",
+      "metrics/precision(B)": "0.82254",
+      "metrics/recall(B)": "0.95647",
+      "metrics/mAP50(B)": "0.8343",
+      "metrics/mAP50-95(B)": "0.5936",
+      "val/box_loss": "0.83843",
+      "val/cls_loss": "1.16749",
+      "val/dfl_loss": "0.9854",
+      "lr/pg0": "0.000792325",
+      "lr/pg1": "0.000792325",
+      "lr/pg2": "0.000792325"
+    },
+    "objects_augmented": {
+      "epoch": "81",
+      "time": "403.482",
+      "train/box_loss": "0.5497",
+      "train/cls_loss": "0.55174",
+      "train/dfl_loss": "0.91207",
+      "metrics/precision(B)": "0.99631",
+      "metrics/recall(B)": "1",
+      "metrics/mAP50(B)": "0.995",
+      "metrics/mAP50-95(B)": "0.88228",
+      "val/box_loss": "0.61117",
+      "val/cls_loss": "0.52828",
+      "val/dfl_loss": "0.88126",
+      "lr/pg0": "0.000346736",
+      "lr/pg1": "0.000346736",
+      "lr/pg2": "0.000346736"
+    }
+  }
+}

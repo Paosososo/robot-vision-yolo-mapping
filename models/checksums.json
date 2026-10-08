@@ -1,0 +1,4 @@
+{
+  "models/objects_augmented/best.pt": "c8e4dfc91251ec805ad2f28acf477ff9f223640584ef8e8d307e7e3ea765e434",
+  "models/objects_no_aug/best.pt": "1ed75ef9dc9848bf55c2fda4c91fe0363d75be741bd5b73a06c2d1b9c31ebe4c"
+}

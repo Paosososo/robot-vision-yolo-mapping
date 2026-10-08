@@ -1,0 +1,14 @@
+{
+  "filename": "Lab04_Jirath_Demo_CV_Live_Object_Detection.mov",
+  "bytes": 73295685,
+  "sha256": "1988bc0a3cb4434da4a53ddc3da36e2cafc72a833054f42bf59c0c81e9cb4500",
+  "duration_seconds": 22.63,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "width": 2940,
+  "height": 1912,
+  "recorder_frame_rate": "60/1",
+  "preview_frame_seconds": 19,
+  "original_download_url": "https://github.com/Paosososo/robot-vision-yolo-mapping/releases/download/demo-v1/Lab04_Jirath_Demo_CV_Live_Object_Detection.mov",
+  "note": "Metadata from ffprobe of the original recording. Recorder frame rate is not detector throughput."
+}
