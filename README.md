@@ -6,7 +6,7 @@ A CoppeliaSim robot scans its surroundings, detects **Cube** and **Tree**, and e
 
 ## Live demonstration
 
-https://github.com/user-attachments/assets/03c5c7fd-fddf-4309-b62d-63ba599ecfce
+https://github.com/user-attachments/assets/97afb3a4-66c4-42f7-bc7a-bcceb56ba211
 
 <details>
 <summary>Still preview from the recording</summary>
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/03c5c7fd-fddf-4309-b62d-63ba599ecfce
 
 **[Watch or download the original recording](https://github.com/Paosososo/robot-vision-yolo-mapping/releases/download/demo-v1/Lab04_Jirath_Demo_CV_Live_Object_Detection.mov)** · 22.6 seconds · 73.3 MB
 
-The recording shows the robot moving in CoppeliaSim and a separate OpenCV window displaying live bounding boxes, class names, and confidence scores. The preview above is an unedited frame extracted at 19 seconds. This is a demonstration of the running pipeline; it is not a measured detector FPS benchmark. Video metadata and its checksum are recorded in [docs/demo.json](docs/demo.json).
+The recording shows the robot moving in CoppeliaSim and a separate OpenCV window displaying live bounding boxes, class names, and confidence scores. The player uses an MP4 container copy with the original encoded video and audio streams preserved. The download link retains the original MOV. The still preview is an unedited frame extracted at 19 seconds. This is a demonstration of the running pipeline; it is not a measured detector FPS benchmark. Video metadata and checksums are recorded in [docs/demo.json](docs/demo.json).
 
 ## My work
 

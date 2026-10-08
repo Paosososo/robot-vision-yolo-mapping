@@ -10,7 +10,18 @@
   "recorder_frame_rate": "60/1",
   "preview_frame_seconds": 19,
   "original_download_url": "https://github.com/Paosososo/robot-vision-yolo-mapping/releases/download/demo-v1/Lab04_Jirath_Demo_CV_Live_Object_Detection.mov",
-  "readme_video_url": "https://github.com/user-attachments/assets/03c5c7fd-fddf-4309-b62d-63ba599ecfce",
   "attachment_record_url": "https://github.com/Paosososo/robot-vision-yolo-mapping/issues/1",
-  "note": "Metadata from ffprobe of the original recording. Recorder frame rate is not detector throughput."
+  "note": "Metadata from ffprobe of the original recording. Recorder frame rate is not detector throughput.",
+  "original_attachment_url": "https://github.com/user-attachments/assets/03c5c7fd-fddf-4309-b62d-63ba599ecfce",
+  "readme_video_url": "https://github.com/user-attachments/assets/97afb3a4-66c4-42f7-bc7a-bcceb56ba211",
+  "playback_copy": {
+    "filename": "Lab04_Jirath_Demo_CV_Live_Object_Detection.mp4",
+    "bytes": 73306234,
+    "sha256": "b737ae420cd665722a0dc9d86ff13db95d0e9550c3c467777c60fea88615fd35",
+    "duration_seconds": 22.645,
+    "method": "MOV to MP4 remux, stream copy, faststart. No video or audio re-encoding.",
+    "video_stream_sha256": "418f1142ecb9ca91fe8a20070437a6bd9b54cedcdcb04c5c9e5cb3309dbbf472",
+    "audio_stream_sha256": "e2ab5c3ffb680764eee681c89f95cce5acee7198fc79af8b62d127bb14b7686d",
+    "encoded_stream_hashes_match_original": true
+  }
 }

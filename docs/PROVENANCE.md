@@ -38,7 +38,7 @@ The dataset audit, split manifest, training comparison JSON, model checksum file
 
 The original experiment inputs and saved outputs are included so a reader can inspect what was done. The training set was not silently deduplicated. The validation set was used during training and selection. New-scene independence, physical-robot performance, and detector FPS have not been measured.
 
-The live video is a separate run from the saved quantitative original-scene map. Its title and recorder frame rate do not establish end-to-end detector throughput.
+The live video is a separate run from the saved quantitative original-scene map. Its title and recorder frame rate do not establish end-to-end detector throughput. The original MOV is retained as a release download. The README player uses an MP4 container copy made without re-encoding; encoded video and audio stream hashes match the original. Both records appear in `docs/demo.json`.
 
 Virtual environments, caches, the submission ZIP, full capture folders, the unneeded random split, lab handouts, and unrelated desktop screenshots are omitted. The original video is hosted separately to keep normal code clones smaller.
 
