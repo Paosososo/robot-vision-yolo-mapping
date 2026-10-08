@@ -10,5 +10,7 @@
   "recorder_frame_rate": "60/1",
   "preview_frame_seconds": 19,
   "original_download_url": "https://github.com/Paosososo/robot-vision-yolo-mapping/releases/download/demo-v1/Lab04_Jirath_Demo_CV_Live_Object_Detection.mov",
+  "readme_video_url": "https://github.com/user-attachments/assets/03c5c7fd-fddf-4309-b62d-63ba599ecfce",
+  "attachment_record_url": "https://github.com/Paosososo/robot-vision-yolo-mapping/issues/1",
   "note": "Metadata from ffprobe of the original recording. Recorder frame rate is not detector throughput."
 }

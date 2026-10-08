@@ -6,7 +6,14 @@ A CoppeliaSim robot scans its surroundings, detects **Cube** and **Tree**, and e
 
 ## Live demonstration
 
+https://github.com/user-attachments/assets/03c5c7fd-fddf-4309-b62d-63ba599ecfce
+
+<details>
+<summary>Still preview from the recording</summary>
+
 [![Recorded CoppeliaSim run with the live Cube and Tree detection window](docs/images/live_demo_preview.png)](https://github.com/Paosososo/robot-vision-yolo-mapping/releases/download/demo-v1/Lab04_Jirath_Demo_CV_Live_Object_Detection.mov)
+
+</details>
 
 **[Watch or download the original recording](https://github.com/Paosososo/robot-vision-yolo-mapping/releases/download/demo-v1/Lab04_Jirath_Demo_CV_Live_Object_Detection.mov)** · 22.6 seconds · 73.3 MB
 
